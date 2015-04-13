@@ -1,0 +1,34 @@
+{
+	"title" : "sample quiz",
+	"description" : "this is an example quiz",
+	"questions": [
+		{
+			"question" : "What is 4 + 4?",
+			"choices" : [
+				{
+					"answer" : "8"
+				},
+				{
+					"answer" : "2"
+				},
+				{
+					"answer" : "green"
+				}
+			],
+			"correctAnswer" : 0
+		},
+		{
+			"question" : "Do you like cheese?",
+			"choices" : [
+				{
+					"answer" : "Yes"
+				},
+				{
+					"answer" : "No"
+				}
+			],
+			"correctAnswer" : 1
+		},
+		
+	]
+}

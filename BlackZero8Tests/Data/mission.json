@@ -1,0 +1,36 @@
+{
+    "brief": "Test case",
+    "duration": 60,
+    "events": [
+        {
+            "audio": "1c",
+            "eventName": "event name 1",
+            "eventType": "dialogue",
+            "pickupID": "",
+            "timeCode": 1
+        },
+        {
+            "audio": "1d",
+            "eventName": "event name 2",
+            "eventType": "pickup",
+            "pickupID": "1",
+            "timeCode": 20
+        },
+        {
+            "audio": "1b1",
+            "eventName": "event name 3",
+            "eventType": "dialogue",
+            "pickupID": "",
+            "timeCode": 40
+        },
+        {
+            "audio": "1g",
+            "eventName": "event name 4",
+            "eventType": "checkpoint",
+            "pickupID": "",
+            "timeCode": 50
+        }
+    ],
+    "name": "Mission 01: Test",
+    "publicationDate": "2014-02-01 02:22:17"
+}

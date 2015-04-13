@@ -1,0 +1,122 @@
+[
+	{
+		"name" : "cord",
+		"points" : 10,
+		"category" : 0,
+		"id" : 1
+	},
+	{
+		"name" : "water purificaiton tablets",
+		"points" : 10,
+		"category" : 0,
+		"id" : 2
+	},
+	{
+		"name" : "water",
+		"points" : 10,
+		"category" : 0,
+		"id" : 3
+	},
+	{
+		"name" : "battery pack",
+		"points" : 10,
+		"category" : 0,
+		"id" : 4
+	},
+	{
+		"name" : "lighter",
+		"points" : 10,
+		"category" : 0,
+		"id" : 5
+	},
+	{
+		"name" : "edible plant",
+		"points" : 10,
+		"category" : 0,
+		"id" : 6
+	},
+	{
+		"name" : "machette",
+		"points" : 10,
+		"category" : 0,
+		"id" : 7
+	},
+	{
+		"name" : "enemy tunic",
+		"points" : 10,
+		"category" : 0,
+		"id" : 8
+	},
+	{
+		"name" : "binoculars",
+		"points" : 10,
+		"category" : 0,
+		"id" : 9
+	},
+	{
+		"name" : "tree branch",
+		"points" : 10,
+		"category" : 0,
+		"id" : 10
+	},
+	{
+		"name" : "face paint",
+		"points" : 10,
+		"category" : 0,
+		"id" : 11
+	},
+	{
+		"name" : "ration pack",
+		"points" : 10,
+		"category" : 0,
+		"id" : 12
+	},
+	{
+		"name" : "parachute",
+		"points" : 10,
+		"category" : 0,
+		"id" : 13
+	},
+	{
+		"name" : "altometer",
+		"points" : 10,
+		"category" : 0,
+		"id" : 14
+	},
+	{
+		"name" : "Spec Ops codebook",
+		"points" : 10,
+		"category" : 0,
+		"id" : 15
+	},
+	{
+		"name" : "memory stick",
+		"points" : 10,
+		"category" : 0,
+		"id" : 16
+	},
+	{
+		"name" : "flash bang",
+		"points" : 10,
+		"category" : 0,
+		"id" : 17
+	},
+	{
+		"name" : "map",
+		"points" : 10,
+		"category" : 0,
+		"id" : 18
+	},
+	{
+		"name" : "enemy radio",
+		"points" : 10,
+		"category" : 0,
+		"id" : 19
+	},
+	{
+		"name" : "rifle catridges",
+		"points" : 10,
+		"category" : 0,
+		"id" : 20
+	}
+]
